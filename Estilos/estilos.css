@@ -26,7 +26,7 @@
    margin-left: 4%;
    text-align: center;
    border-radius: 15px;
-   background-color: rgb(250, 250, 250);
+   background: linear-gradient(to top, #ff8934b9 10%, #54fc6a87 50%, #5da3ff 100%);
    box-shadow: 5px 5px 10px rgb(0, 0, 0);
 
 }
